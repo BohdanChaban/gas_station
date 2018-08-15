@@ -5,9 +5,8 @@ App for practice with ruby multi-threading
 ## Usage
 
 ```bash
-$ ruby gas_station.rb
+$ ruby fuel_cars.rb
 ```
-
 
 ## Installation
 
